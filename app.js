@@ -8,3 +8,5 @@ console.log(idElement);
 console.log(document.getElementsByTagName("div"));
 var tagElement = document.getElementsByTagName("div");
 console.log(tagElement);
+
+console.log(document.getElementsByClassName("use-class-method"));
